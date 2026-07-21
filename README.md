@@ -23,4 +23,4 @@ This repository contains the Python programs I created while learning Python fro
 
 ## Goal
 
-My goal is to improve my programming skills by creatng projects reguluralyand sharing them on GitHUb.
+My goal is to improve my programming skills by creatng projects reguluraly and sharing them on GitHUb.
